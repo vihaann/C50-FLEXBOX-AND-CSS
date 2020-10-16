@@ -1,0 +1,26 @@
+h1{
+    color: red;
+      
+}
+img{
+   border:solid;
+   
+}
+
+.header{
+ 
+    display:flex; 
+    justify-content: center;
+}
+
+.header2{
+    justify-content:flex-start;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
